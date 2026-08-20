@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="mysql-connector-j-8.3.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../信息开发黄丽丰老师的资源软件/mysql-connector-j-8.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../信息开发黄丽丰老师的资源软件/lib/fastjson-1.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
